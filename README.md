@@ -1,5 +1,9 @@
 # null-class data analysis
 
+certificate link -- https://www.nullclass.com/certificates/676641d86234747298010287
+
+
+
 ## dataset
 ##### google-play-store-apps/googleplaystore_user_reviews.csv
 
